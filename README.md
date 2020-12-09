@@ -20,4 +20,4 @@
 4주차에서 마지막까지는 프로그램 디버깅으로 나누었습니다.
  
 
-  
+![다이어그램](https://user-images.githubusercontent.com/59460871/101598499-9d366000-3a3b-11eb-8a61-5c7a635ddcfe.jpg)
