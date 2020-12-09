@@ -19,13 +19,16 @@
 - 프로젝트 진행중에 있어 일대일 구현으로는 충분할 것 같아 서버와 클라이언트로 여러 사람이 동시에 블랙잭 게임을 즐길 수 있도록 방향을 수정했습니다.
 
 ![simple_Diagram](https://user-images.githubusercontent.com/59460871/101640318-b65b0300-3a73-11eb-986e-bfd68a4a88cc.PNG)
+![Server_Client_Diagram](https://user-images.githubusercontent.com/59460871/101640560-ff12bc00-3a73-11eb-9cf1-78d1171a7779.PNG)
+
 
 - 그러나 서버와 클라이언트 구현에서 속도가 더뎌지고 보고서 제출(201209)까지는 구현을 못했습니다.
 -------------------------------------
-### 개발 내용 소개(코드)
 
-(코드 스샷 추가)
+### 프로그램 소개
 
-### 실행 결과
+![KakaoTalk_1](https://user-images.githubusercontent.com/59460871/101640797-4c8f2900-3a74-11eb-9a4a-c2b6f0382f39.png)
+![KakaoTalk_1](https://user-images.githubusercontent.com/59460871/101640797-4c8f2900-3a74-11eb-9a4a-c2b6f0382f39.png)
 
- (프로그램 구동 화면 스크린 샷 첨부)
+숫자 1번과 2번을 쓰면 베팅과 카드를 자동을 뽑아줍니당
+(프로그램 구동 화면 스크린 샷 첨부)
