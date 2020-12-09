@@ -28,7 +28,7 @@
 ### 프로그램 소개
 
 ![KakaoTalk_1](https://user-images.githubusercontent.com/59460871/101640797-4c8f2900-3a74-11eb-9a4a-c2b6f0382f39.png)
-![KakaoTalk_1](https://user-images.githubusercontent.com/59460871/101640797-4c8f2900-3a74-11eb-9a4a-c2b6f0382f39.png)
+![KakaoTalk_2](https://user-images.githubusercontent.com/59460871/101643961-01771500-3a78-11eb-94ff-09a3d660d57a.jpeg)
 
-숫자 1번과 2번을 쓰면 베팅과 카드를 자동을 뽑아줍니당
 (프로그램 구동 화면 스크린 샷 첨부)
+평범한 게임은 돌아가지만 출력구현이 미흡합니다.
