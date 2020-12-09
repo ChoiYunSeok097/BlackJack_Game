@@ -18,7 +18,7 @@
 ### 프로젝트의 방향과 다이어그램
 - 프로젝트 진행중에 있어 일대일 구현으로는 충분할 것 같아 서버와 클라이언트로 여러 사람이 동시에 블랙잭 게임을 즐길 수 있도록 방향을 수정했습니다.
 
-<img src="simple_Diagram.PNG" alt="simple_Diagram" width="50%" height="50%"/><img src="Server_Client_Diagram.PNG" alt="Server_Client_Diagram" width="50%" height="50%"/>
+![simple_Diagram](https://user-images.githubusercontent.com/59460871/101640318-b65b0300-3a73-11eb-986e-bfd68a4a88cc.PNG)
 
 - 그러나 서버와 클라이언트 구현에서 속도가 더뎌지고 보고서 제출(201209)까지는 구현을 못했습니다.
 -------------------------------------
