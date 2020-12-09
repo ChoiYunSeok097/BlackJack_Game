@@ -31,4 +31,4 @@
 ![KakaoTalk_2](https://user-images.githubusercontent.com/59460871/101643961-01771500-3a78-11eb-94ff-09a3d660d57a.jpeg)
 
 (프로그램 구동 화면 스크린 샷 첨부)
-평범한 게임은 돌아가지만 출력구현이 미흡합니다.
+평범한 게임은 돌아가지만 ncurses의 출력구현이 미흡했습니다.
