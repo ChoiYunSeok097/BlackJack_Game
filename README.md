@@ -1,7 +1,7 @@
 # System Programming Term Project : BlackJack Game
 
 ## 팀 멤버
-
+ 
 - 최윤석: Ncurse라이브러리 사용, 게임의 출력부분, 코드 합치기 등 
 - 이재성: 게임 알고리즘 구현, 다른 맴버의 프로그램에 맞게 재수정 
 - 최윤찬: 서버구현, 아이디어 제공
